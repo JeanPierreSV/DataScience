@@ -12,7 +12,10 @@ La regresión es una forma estadística de establecer una relación entre una va
 <img src="https://miro.medium.com/max/2400/1*wsBakfF2Geh1zgY4HJbwFQ.gif">
 Por normalizar nos referimos a poner a todos los datos en una escala similar.
 
-
 ![diagrama_final_regresion_multiclase_opt](https://user-images.githubusercontent.com/80585738/116833921-6d6e2d00-ab81-11eb-881a-0c1b0ae5b3ad.png)
 <img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif">
 <img src="https://ruder.io/content/images/2016/09/saddle_point_evaluation_optimizers.gif">
+
+
+<img src="https://miro.medium.com/max/1200/1*Q-2Wh0Xcy6fsGkbPFJvMhQ.gif">
+<img src="https://ruder.io/content/images/2016/09/contours_evaluation_optimizers.gif">
