@@ -4,7 +4,8 @@ Basic
 # RegresionLineal (Recordar medir las eficiencias)
 Algoritmo básico de Machine Learning y el indicado para iniciar en este mundo.
 
-La regresión es una forma estadística de establecer una relación entre una variable dependiente y un conjunto de variables independientes. El objetivo es "predecir" o estimar una variable objetivo a partir de otras. Es un algoritmo que intenta representar un conjunto de puntos que tienen una tendencia lineal en una gráfica. Permite encontrar una línea recta que represente de mejor manera un conjunto de datos de manera “automática”.
+La regresión es una forma estadística de establecer una relación entre una variable dependiente y un conjunto de variables independientes. El objetivo es "predecir" o estimar una variable objetivo a partir de otras. Es un algoritmo que intenta representar un conjunto de puntos que tienen una tendencia lineal en una gráfica. 
+Permite encontrar una línea recta que represente de mejor manera un conjunto de datos de manera “automática”.
 
 ![1_r3aOsJoXHX7uC2nxn2lygQ](https://user-images.githubusercontent.com/80585738/116330456-3370e580-a793-11eb-8c39-be9e53d172eb.png)
 
