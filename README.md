@@ -9,8 +9,10 @@ Permite encontrar una línea recta que represente de mejor manera un conjunto de
 
 ![1_r3aOsJoXHX7uC2nxn2lygQ](https://user-images.githubusercontent.com/80585738/116330456-3370e580-a793-11eb-8c39-be9e53d172eb.png)
 
+![diagrama_final_regresion_multiclase_opt](https://user-images.githubusercontent.com/80585738/116833921-6d6e2d00-ab81-11eb-881a-0c1b0ae5b3ad.png)
+<img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif">
+
 <img src="https://miro.medium.com/max/2400/1*wsBakfF2Geh1zgY4HJbwFQ.gif">
 Por normalizar nos referimos a estructurar todos los datos en una escala similar
 
-![diagrama_final_regresion_multiclase_opt](https://user-images.githubusercontent.com/80585738/116833921-6d6e2d00-ab81-11eb-881a-0c1b0ae5b3ad.png)
-<img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif">
+
